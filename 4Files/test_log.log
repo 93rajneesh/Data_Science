@@ -1,0 +1,24 @@
+INFO:root:log this line executation
+INFO:root:this is my print
+INFO:root:log this line executation
+INFO:root:this is my print
+INFO:root:this is info
+ERROR:root:this is error
+INFO:root:this is info
+ERROR:root:this is error
+INFO:root:this is info
+ERROR:root:this is error
+INFO:root:this is info
+ERROR:root:this is error
+INFO:root:rajneesh info
+ERROR:root:computer error
+INFO:root:log this line executation
+INFO:root:this is my print
+INFO:root:this is info
+ERROR:root:this is error
+INFO:root:rajneesh info
+ERROR:root:computer error
+INFO:root:this is info
+ERROR:root:this is error
+INFO:root:this is info
+ERROR:root:this is error
