@@ -5,7 +5,7 @@ from pymongo import MongoClient
 uri = "mongodb+srv://RajneeshKumar:<password>@cluster0.qgsxb7q.mongodb.net/?retryWrites=true&w=majority"
 
 # Create a new client and connect to the server
-client = MongoClient("mongodb+srv://RajneeshKumar:5qC2Z7Wu64GWIDtG@cluster0.qgsxb7q.mongodb.net/?retryWrites=true&w=majority")
+client = MongoClient("mongodb+srv://RajneeshKumar:<password>@cluster0.qgsxb7q.mongodb.net/?retryWrites=true&w=majority")
 
 # Send a ping to confirm a successful connection
 try:
